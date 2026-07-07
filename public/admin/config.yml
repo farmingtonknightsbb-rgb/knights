@@ -2,6 +2,7 @@ backend:
   name: github
   repo: farmingtonknightsbb-rgb/knights
   branch: main
+  auth_provider: github
 
 media_folder: "public/images"
 public_folder: "/images"
